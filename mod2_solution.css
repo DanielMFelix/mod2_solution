@@ -21,6 +21,11 @@ h2{background-color:#D59898;
     float: right;
 }
 
+#h2-1{background-color: #C14543;
+    color:white;}
+
+#h2-2{background-color: #E5D198;}
+
 p{
     padding-top: 20px;
     padding-left: 10px;
